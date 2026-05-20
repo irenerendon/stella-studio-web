@@ -129,12 +129,12 @@ const GallerySection = () => {
               </p>
             </div>
             <a
-              href="https://instagram.com/StellaEstudio"
+              href="https://instagram.com/Stellastudio.ba"
               target="_blank"
               rel="noopener noreferrer"
               className="font-body text-sm text-primary font-medium tracking-wider hover:underline shrink-0"
             >
-              @StellaEstudio
+              @Stellastudio.ba
             </a>
           </div>
         </div>
